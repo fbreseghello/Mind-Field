@@ -1,5 +1,5 @@
 # Mind-Field
-Private research codebase. The AI "Apogeu".
+Private research codebase.
 
 # Documentação de Estudos - Trajetória em IA
 
@@ -11,7 +11,7 @@ Este repositório documenta minha jornada de estudos em Inteligência Artificial
 
 ## Trajetória de Estudos
 
-Abaixo está o diagrama que representa a trajetória planejada para alcançar meus objetivos:
+Abaixo está o diagrama que representa a trajetória planejada para alcançar os objetivos:
 
 ![Diagrama de Trajetória](./assets/diagram.svg)
 
@@ -23,7 +23,7 @@ Abaixo está o diagrama que representa a trajetória planejada para alcançar me
 
 ## Objetivo Final
 
-Adquirir conhecimentos sólidos em IA para atuar na área da saúde.
+Adquirir conhecimentos sólidos em IA para área da saúde.
 ---
 
 *Documentação mantida por [Felipe Breseghello](https://github.com/fbreseghello).*
