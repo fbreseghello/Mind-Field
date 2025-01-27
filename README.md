@@ -23,8 +23,7 @@ Abaixo está o diagrama que representa a trajetória planejada para alcançar me
 
 ## Objetivo Final
 
-Meu objetivo é adquirir conhecimentos sólidos em IA para atuar na área da saúde, com o sonho de contribuir para projetos como os da Neuralink.
-
+Adquirir conhecimentos sólidos em IA para atuar na área da saúde.
 ---
 
 *Documentação mantida por [Felipe Breseghello](https://github.com/fbreseghello).*
