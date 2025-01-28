@@ -25,19 +25,25 @@ Abaixo está o diagrama que representa a trajetória planejada para alcançar os
 
 Adquirir conhecimentos sólidos em IA para área da saúde.
 
+## ATENÇÃO
+
+Faça a instalação do VSCode e em seguida instale o python em seu computador.
+
+![Instalação python](./docs/instalacao_python.md)
+
 ## Fontes
 
-[CS50x - Introdução à Ciência da Computação (Harvard)](https://cs50.harvard.edu/x/2025).
-Livro: "Lógica de Programação e Algoritmos com Python" (versão PDF gratuita disponível online).
-[Python.org - Documentação Oficial.](https://docs.python.org/pt-br/3/).
-[Curso de Python - Solyd.](https://solyd.com.br/cursos/python-basico/).
-Livro: "Matemática para Machine Learning" (PDF gratuito disponível online).
-[Khan Academy - Matemática Avançada.](https://pt.khanacademy.org/).
-[Coursera - Machine Learning (Andrew Ng).](https://www.coursera.org/learn/machine-learning).
-[Coursera - DeepLearning.AI TensorFlow.](https://www.coursera.org/professional-certificates/tensorflow-in-practice).
-[Fast.ai - Curso Gratuito de Deep Learning.](https://www.fast.ai/).
-Artigos científicos (PubMed, ArXiv).
-[Kaggle - Conjuntos de Dados Médicos.](https://www.kaggle.com/).
+- [CS50x - Introdução à Ciência da Computação (Harvard)](https://cs50.harvard.edu/x/2025).
+- Livro: "Lógica de Programação e Algoritmos com Python" (versão PDF gratuita disponível online).
+- [Python.org - Documentação Oficial.](https://docs.python.org/pt-br/3/).
+- [Curso de Python - Solyd.](https://solyd.com.br/cursos/python-basico/).
+- Livro: "Matemática para Machine Learning" (PDF gratuito disponível online).
+- [Khan Academy - Matemática Avançada.](https://pt.khanacademy.org/).
+- [Coursera - Machine Learning (Andrew Ng).](https://www.coursera.org/learn/machine-learning).
+- [Coursera - DeepLearning.AI TensorFlow.](https://www.coursera.org/professional-certificates/tensorflow-in-practice).
+- [Fast.ai - Curso Gratuito de Deep Learning.](https://www.fast.ai/).
+- Artigos científicos (PubMed, ArXiv).
+- [Kaggle - Conjuntos de Dados Médicos.](https://www.kaggle.com/).
 
 ---
 
