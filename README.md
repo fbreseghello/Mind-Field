@@ -39,6 +39,7 @@ Faça a instalação do VSCode e em seguida instale o python em seu computador.
 - Livro: "Lógica de Programação e Algoritmos com Python" (versão PDF gratuita disponível online).
 - [Python.org - Documentação Oficial.](https://docs.python.org/pt-br/3/).
 - [Curso de Python - Solyd.](https://solyd.com.br/cursos/python-basico/).
+- [Python-for-beginners - Microsoft.](https://github.com/microsoft/python-for-beginners).
 - Livro: "Matemática para Machine Learning" (PDF gratuito disponível online).
 - [Khan Academy - Matemática Avançada.](https://pt.khanacademy.org/).
 - [Coursera - Machine Learning (Andrew Ng).](https://www.coursera.org/learn/machine-learning).
@@ -46,6 +47,7 @@ Faça a instalação do VSCode e em seguida instale o python em seu computador.
 - [Fast.ai - Curso Gratuito de Deep Learning.](https://www.fast.ai/).
 - Artigos científicos (PubMed, ArXiv).
 - [Kaggle - Conjuntos de Dados Médicos.](https://www.kaggle.com/).
+- [bash-for-beginner - Microsoft.](https://github.com/microsoft/python-for-beginners).
 
 ---
 
