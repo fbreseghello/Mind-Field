@@ -31,7 +31,7 @@ Faça a instalação do VSCode e em seguida instale o python em seu computador.
 
 [VSCode](https://code.visualstudio.com/)
 
-[Instalação python](../Mind-Field/docs/instalacao_dependencias.md)
+[Instalação python](docs/instalacao_dependencias.md)
 
 ## Fontes
 
