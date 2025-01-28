@@ -29,7 +29,7 @@ Adquirir conhecimentos sólidos em IA para área da saúde.
 
 Faça a instalação do VSCode e em seguida instale o python em seu computador.
 
-![Instalação python](./docs/instalacao_python.md)
+[Instalação python](./docs/instalacao_python.md)
 
 ## Fontes
 
