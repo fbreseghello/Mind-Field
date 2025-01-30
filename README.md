@@ -50,6 +50,7 @@ Faça a instalação do VSCode e em seguida instale o python em seu computador.
 - [bash-for-beginner - Microsoft.](https://github.com/microsoft/python-for-beginners).
 - [Ian Goodfellow private research codebase.](https://github.com/goodfeli/galatea).
 
+
 ---
 
 *Documentação mantida por [Felipe Breseghello](https://github.com/fbreseghello).*
