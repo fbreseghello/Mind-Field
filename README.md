@@ -23,7 +23,7 @@ Abaixo está o diagrama que representa a trajetória planejada para alcançar os
 
 ## Objetivo Final
 
-Adquirir conhecimentos sólidos em IA para área da saúde.
+Adquirir conhecimentos sólidos em IA para área da saúde. 
 
 ## ATENÇÃO
 
