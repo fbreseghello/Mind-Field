@@ -4,6 +4,7 @@ print("Tente adivinhar o número secreto entre 1 e 100.")
 
 # Inicializa o número secreto e as variáveis de tentativas
 numero_secreto = 42  # Substitua pelo número secreto que deseja
+# randint() para gerar um numero inteiro aleatório 
 max_tentativas = 10  # Define o número máximo de tentativas
 tentativas = 0  # Inicializa o contador de tentativas
 
