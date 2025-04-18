@@ -1,4 +1,4 @@
-# Mind-Field
+# Mind-Field 
 Private research codebase.
 
 # Documentação de Estudos - Trajetória em IA
