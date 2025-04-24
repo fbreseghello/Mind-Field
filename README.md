@@ -47,7 +47,6 @@ Faça a instalação do VSCode e em seguida instale o python em seu computador.
 - [Fast.ai - Curso Gratuito de Deep Learning.](https://www.fast.ai/)
 - Artigos científicos (PubMed, ArXiv)
 - [Kaggle - Conjuntos de Dados Médicos.](https://www.kaggle.com/)
-- [bash-for-beginner - Microsoft.](https://github.com/microsoft/python-for-beginners)
 - [Ian Goodfellow private research codebase.](https://github.com/goodfeli/galatea)
 
 
